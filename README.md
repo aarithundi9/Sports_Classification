@@ -1,2 +1,2 @@
 # Sports_Classification
-Classifying sports based on images
+Built a CNN from scratch and implemented a pre-trained CNN to classify sports based on images.
